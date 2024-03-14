@@ -12,11 +12,11 @@
     <div role="article" class="profile-social-container">
       <span>"Front-end developer and avid reader."</span>
       <div class="social-icon-container">
-        <a class="social-media-card"> GitHub </a>
-        <a class="social-media-card"> Frontend Mentor </a>
-        <a class="social-media-card"> LinkedIn </a>
-        <a class="social-media-card"> Twitter </a>
-        <a class="social-media-card"> Instagram </a>
+        <a class="social-media-card" target="_blank" href="https://github.com"> GitHub </a>
+        <a class="social-media-card" target="_blank" href="https://www.frontendmentor.io/"> Frontend Mentor </a>
+        <a class="social-media-card" target="_blank" href="https://www.linkedin.com/"> LinkedIn </a>
+        <a class="social-media-card" target="_blank" href="https://twitter.com/"> Twitter </a>
+        <a class="social-media-card" target="_blank" href="https://www.instagram.com/"> Instagram </a>
       </div>
     </div>
   </main>

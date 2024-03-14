@@ -88,8 +88,9 @@ main {
         padding: 12px 90px;
         background-color: $grey-color;
         border-radius: 8px;
+        text-decoration: none;
 
-        &:active {
+        &:active, &:hover {
           background-color: $green-color;
           cursor: pointer;
           color: $off-black-color;
